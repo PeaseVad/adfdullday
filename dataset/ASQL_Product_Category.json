@@ -1,10 +1,6 @@
 {
 	"name": "ASQL_Product_Category",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "ASDLinkedService",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "AzureSqlTable",
 		"schema": [

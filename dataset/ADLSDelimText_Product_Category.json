@@ -1,10 +1,6 @@
 {
 	"name": "ADLSDelimText_Product_Category",
 	"properties": {
-		"linkedServiceName": {
-			"referenceName": "ADLSLinkedService",
-			"type": "LinkedServiceReference"
-		},
 		"annotations": [],
 		"type": "DelimitedText",
 		"typeProperties": {
