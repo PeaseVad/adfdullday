@@ -1,0 +1,9 @@
+{
+	"name": "secodnadinst",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b887fc0d-bce4-476e-b403-e481b2c7ff48",
+		"tenantId": "63ed9614-10a4-4a34-b9c8-47cdb830b400"
+	}
+}
