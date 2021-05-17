@@ -1,0 +1,9 @@
+{
+	"name": "a-day-full-of-adf",
+	"location": "norwayeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b2abd2de-d1ae-4a73-9536-38522c5ea353",
+		"tenantId": "63ed9614-10a4-4a34-b9c8-47cdb830b400"
+	}
+}
